@@ -93,6 +93,6 @@ p {
 
 @media (min-width: 576px) {
   .text-sm-left {
-    text-align: left;
+    text-align: left !important;
   }
 }
